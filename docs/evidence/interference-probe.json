@@ -1,0 +1,2172 @@
+[
+  {
+    "state": "q0",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 6.696875795930379,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "q0",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 3.9641817290447747,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "q0",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 28.210656696643568,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "q0",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 30.522527838143418,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "q0",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999996987,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "q0",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 6.696875795931552,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "q0",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 3.964181729046569,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "q0",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 28.210656696643884,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "q0",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 30.522527838144434,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "q0",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5500000000000664,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_0",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 6.693713659564726,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_0",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 3.9609057071158063,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_0",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 28.207781048986494,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_0",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 30.51963223947436,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_0",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999996739,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_0",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 6.698382477770335,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_0",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 3.9657426347254443,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_0",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 28.211897238170753,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_0",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 30.5237769851419,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_0",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5500000000000639,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_100",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 10.266529029891098,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_100",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 7.616279865721051,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_100",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 31.637587417713117,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_100",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 33.97056421185814,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_100",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5500000000004471,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_100",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 3.6984884228439205,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_100",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 0.7582689597259744,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_100",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 25.228781258392356,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_100",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 27.517409923905877,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_100",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999989541,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_200",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 7.9604664175195285,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_200",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 5.265727627495982,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_200",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 29.424825091076613,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_200",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 31.74475810331833,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_200",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5500000000002716,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_200",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 6.955457231164805,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_200",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 4.231707457589756,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_200",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 28.45866082300539,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_200",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 30.772236819259447,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_200",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.549999999999196,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_300",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 8.57584099659579,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_300",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 5.895388543652562,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_300",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 30.016331237990148,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_300",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 32.339946520590864,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_300",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999998428,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_300",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 7.44086023095355,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_300",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 4.732143594854254,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_300",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 28.927181824170507,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_300",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 31.243895646252287,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_300",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.55000000000004,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_400",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 9.868167470765668,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_400",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 7.211757267924137,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_400",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 31.256447650350133,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_400",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 33.587314139262126,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_400",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999995095,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_400",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 11.333968121850912,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_400",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 8.698050427960025,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_400",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 32.66154113405993,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_400",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 34.999935042406754,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_400",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999991747,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_500",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 3.765509671851097,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_500",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 0.834151029693512,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_500",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 25.294273504197868,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_500",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 27.583474202652873,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_500",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999995291,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_500",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 7.123363276450442,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_500",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 4.4050564348372525,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_500",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 28.6220879569857,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_500",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 30.93677060638919,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_500",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999987981,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_600",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 17.96533464988437,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_600",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 15.379897904695433,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_600",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 39.03630420252468,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_600",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 38.56090160821501,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_600",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999994217,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_600",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 10.45308513964818,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_600",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 7.805556216757049,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_600",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 31.820706537275893,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_600",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 34.15467861195624,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_600",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999990425,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_700",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 15.886637384443045,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_700",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 13.28995716855434,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_700",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 37.03513822346667,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_700",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 38.55927752769752,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_700",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999994645,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_700",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 19.10569882818986,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_700",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 16.52538377309384,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_700",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 40.138390534148535,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_700",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 38.56066325538169,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_700",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999993606,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_800",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 19.0058161566019,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_800",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 16.425077219883295,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_800",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 40.04260085954992,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_800",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 38.56019141529024,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_800",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999995792,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_800",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 17.095901798239957,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_800",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 14.506097679805034,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_800",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 38.198826189128404,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_800",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 38.560167510973116,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_800",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999999398,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_900",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 17.24917349124034,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_900",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 14.66017150645369,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_900",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 38.34627497418016,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_900",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 38.56039937778678,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_900",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999997554,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_900",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 11.75147145968152,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_900",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 9.120438092761965,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_900",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 33.06385588057802,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_900",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 35.40428324275645,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_900",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999998824,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1000",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 9.328784887467892,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1000",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 6.663172347863393,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1000",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 30.74248992738583,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1000",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 33.07042480948446,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1000",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999999423,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1000",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 5.912247230482892,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1000",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 3.147315053576836,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1000",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 27.447995329240786,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1000",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 29.75442260360556,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1000",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999994114,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1100",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 11.330302684086217,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1100",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 8.694340485844181,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1100",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 32.65636554834705,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1100",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 34.99473295958071,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1100",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999997609,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1100",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 12.001184864536866,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1100",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 9.372907737904558,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1100",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 33.29972867018805,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1100",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 35.64132460200187,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1100",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999988114,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1200",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 6.235936300547212,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1200",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 3.485348907497677,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1200",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 27.7585330460236,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1200",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 30.067214528933313,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1200",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999995763,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1200",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 7.728976696674183,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1200",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 5.02825217283133,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1200",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 29.202455645584408,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1200",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 31.52096426764917,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1200",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999994456,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1300",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 7.730494132401452,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1300",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 5.029810059430002,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1300",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 29.203778779578553,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1300",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 31.5222959436484,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1300",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999993989,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1300",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 7.522679589231964,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1300",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 4.816297438065998,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1300",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 29.004236701757694,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1300",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 31.32145649428161,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1300",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.549999999999835,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1400",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 8.403349401373182,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1400",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 5.719110728147983,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1400",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 29.850909282856904,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1400",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 32.173510032686934,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1400",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999996316,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1400",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 5.0850587102711575,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1400",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 2.274444688852066,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1400",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 26.635739964942882,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1400",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 28.936011763377195,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1400",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999990224,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1500",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 5.4380263023524575,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1500",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 2.6487503401384913,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1500",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 26.98480518143783,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1500",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 29.28776962513017,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1500",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999996703,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1500",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 16.34312767126173,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1500",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 13.749163734763941,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1500",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 37.471244510128585,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1500",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 38.56177844431389,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1500",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999990699,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1600",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 7.283468629530775,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1600",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 4.5701071616601325,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1600",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 28.77861074058706,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1600",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 31.0943410387974,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1600",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999995515,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1600",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 12.67167319127161,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1600",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 10.050251051927152,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1600",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 33.946566560917375,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1600",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 36.29128098576645,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1600",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.549999999999444,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1700",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 19.299247067583735,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1700",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 16.719740824881974,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1700",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 40.325561808952365,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1700",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 38.5607791214171,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1700",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999994212,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1700",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 15.422533400152115,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1700",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 12.822925193278646,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1700",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 36.58782058623858,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1700",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 38.559863123313384,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1700",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999999976,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1800",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 20.56883567462858,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1800",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 17.994255317280217,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1800",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 41.55536749512246,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1800",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 38.56016410047331,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1800",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999994121,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1800",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 18.03224014354057,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1800",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 15.44712190280994,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1800",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 39.10175031358933,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1800",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 38.56037928922278,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1800",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.549999999999842,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1900",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 15.63201742037292,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1900",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 13.033752561143743,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1900",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 36.78912287075392,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1900",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 38.56003446470144,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1900",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999994525,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1900",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 12.56929556460844,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1900",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 9.946874747923207,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1900",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 33.84758368110999,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1900",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 36.19182887730973,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_1900",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999993228,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2000",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 9.581617304787718,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2000",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 6.920450635474259,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2000",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 30.98466814089254,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2000",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 33.31399696386757,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2000",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999995684,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2000",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 5.310609521798544,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2000",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 2.513987783493402,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2000",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 26.858386910972825,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2000",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 29.16038461020657,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2000",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.549999999998857,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2100",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 10.36597282903129,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2100",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 7.717186143562923,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2100",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 31.732487263422165,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2100",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 34.0659813379076,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2100",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999995243,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2100",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 11.99233448144614,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2100",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 9.363961661893928,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2100",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 33.291392055516475,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2100",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 35.63294697761479,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2100",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999991912,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2200",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 5.52172030035314,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2200",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 2.7370693212266346,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2200",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 27.059452415174267,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2200",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 29.362983278514903,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2200",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999994435,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2200",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 8.363821558618712,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2200",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 5.678692503354103,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2200",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 29.81204310542853,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2200",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 32.13440379326068,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2200",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5500000000000471,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2300",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 7.576524167515614,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2300",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 4.871649643122421,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2300",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 29.055694998505913,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2300",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 31.37325113179712,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2300",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999995968,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2300",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 8.225339174001173,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2300",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 5.5370208738910875,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2300",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 29.680148388507035,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2300",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 32.00168954466087,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2300",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999992087,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2400",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 8.86901963842206,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2400",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 6.194654067110012,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2400",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 30.297765487705902,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2400",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 32.62308039432468,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2400",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999997953,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2400",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 4.216977258399289,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2400",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 1.3367169817256297,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2400",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 25.765519284430653,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2400",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 28.058746416429145,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2400",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999988122,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2500",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 5.09799900181137,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2500",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 2.288224495830125,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2500",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 26.649442554719954,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2500",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 28.94982144083034,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2500",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999997899,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2500",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 15.878759970784792,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2500",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 13.28203149818819,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2500",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 37.02450169210721,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2500",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 38.56152605404267,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2500",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999994861,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2600",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 7.223221043723208,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2600",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 4.5080255597767085,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2600",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 28.720443753868203,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2600",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 31.035786111202423,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2600",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999996897,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2600",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 11.922038551067107,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2600",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 9.292900542832353,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2600",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 33.22812486102229,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2600",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 35.56936786387932,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2600",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5500000000000619,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2700",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 19.406391543549802,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2700",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 16.827326062897455,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2700",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 40.429142870666176,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2700",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 38.56080849578595,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2700",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999996514,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2700",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 15.861199583887478,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2700",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 13.264363362975246,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2700",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 37.00977724927888,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2700",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 38.55997123828888,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2700",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999997628,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2800",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 20.570864180185673,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2800",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 17.996291204011523,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2800",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 41.55729282523822,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2800",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 38.560182341836835,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2800",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.549999999999495,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2800",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 18.139102782711113,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2800",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 15.554488355025786,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2800",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 39.20495879857033,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2800",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 38.56035684358499,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2800",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999992277,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2900",
+    "tire": 149,
+    "other": 24,
+    "distance_mm": 15.640203003785004,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2900",
+    "tire": 149,
+    "other": 25,
+    "distance_mm": 13.041989898323912,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2900",
+    "tire": 149,
+    "other": 137,
+    "distance_mm": 36.79695552691176,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2900",
+    "tire": 149,
+    "other": 28,
+    "distance_mm": 38.56006247773266,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2900",
+    "tire": 149,
+    "other": 146,
+    "distance_mm": 0.5499999999994062,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2900",
+    "tire": 148,
+    "other": 26,
+    "distance_mm": 12.407730005722877,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2900",
+    "tire": 148,
+    "other": 27,
+    "distance_mm": 9.783699112845454,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2900",
+    "tire": 148,
+    "other": 138,
+    "distance_mm": 33.69272881365207,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2900",
+    "tire": 148,
+    "other": 29,
+    "distance_mm": 36.03623420435505,
+    "intersection_mm3": 0
+  },
+  {
+    "state": "animation_step_2900",
+    "tire": 148,
+    "other": 147,
+    "distance_mm": 0.5499999999988293,
+    "intersection_mm3": 0
+  }
+]

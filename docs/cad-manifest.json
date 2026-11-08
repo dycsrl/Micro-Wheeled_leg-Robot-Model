@@ -1,0 +1,1452 @@
+{
+  "source": "OriginalRobotModel.stp",
+  "source_sha256": "c9e861b3f90ed1e15cedfd873e96353900c006f6b425fe7b94dd02c44de95fae",
+  "cad_units": "mm",
+  "robot_frame": "X=-CAD_X; Y=CAD_Z-32mm; Z=CAD_Y-15.5mm",
+  "step_solids": 157,
+  "visual_solids": 156,
+  "omitted_original_battery_solid": 126,
+  "anchors_robot_m": {
+    "A": [
+      0.004793581489762001,
+      0.032,
+      0.0
+    ],
+    "B": [
+      -0.043843533312367004,
+      0.032,
+      -0.018639502775678
+    ],
+    "C": [
+      -0.012901074593677,
+      0.032,
+      0.016214164982780003
+    ],
+    "D": [
+      -0.055059651162210003,
+      0.032,
+      -0.014373509294863
+    ],
+    "W": [
+      0.0028902910620000003,
+      0.04365000000000001,
+      -0.03641447561200001
+    ]
+  },
+  "lengths_mm": {
+    "AB": 52.086466572421514,
+    "CD": 52.08600000000042,
+    "BD": 11.999999999996785,
+    "AC": 23.99999999999988,
+    "BW": 51.339288074399356
+  },
+  "mass_kg": 0.336,
+  "nonbattery_mass_method": "density-class volume weighting normalized to 0.278kg; unmeasured",
+  "parts": [
+    {
+      "solid": 0,
+      "body": "chassis",
+      "file": "meshes/part_000.obj",
+      "volume_mm3": 458.8102379257623,
+      "mass_kg_estimated": 0.0023865502410219223,
+      "vertices": 3256,
+      "triangles": 3258
+    },
+    {
+      "solid": 1,
+      "body": "chassis",
+      "file": "meshes/part_001.obj",
+      "volume_mm3": 1720.6193925326024,
+      "mass_kg_estimated": 0.008949984735563164,
+      "vertices": 48586,
+      "triangles": 50740
+    },
+    {
+      "solid": 2,
+      "body": "chassis",
+      "file": "meshes/part_002.obj",
+      "volume_mm3": 575.4781937065019,
+      "mass_kg_estimated": 0.002993411019122325,
+      "vertices": 3036,
+      "triangles": 2924
+    },
+    {
+      "solid": 3,
+      "body": "chassis",
+      "file": "meshes/part_003.obj",
+      "volume_mm3": 206.18824501078728,
+      "mass_kg_estimated": 0.0010725100818391117,
+      "vertices": 16337,
+      "triangles": 16158
+    },
+    {
+      "solid": 4,
+      "body": "chassis",
+      "file": "meshes/part_004.obj",
+      "volume_mm3": 34.52225793589466,
+      "mass_kg_estimated": 0.00017957119564289523,
+      "vertices": 2547,
+      "triangles": 4040
+    },
+    {
+      "solid": 5,
+      "body": "chassis",
+      "file": "meshes/part_005.obj",
+      "volume_mm3": 34.52225793589466,
+      "mass_kg_estimated": 0.00017957119564289523,
+      "vertices": 2547,
+      "triangles": 4040
+    },
+    {
+      "solid": 6,
+      "body": "chassis",
+      "file": "meshes/part_006.obj",
+      "volume_mm3": 34.52225793589465,
+      "mass_kg_estimated": 0.00017957119564289517,
+      "vertices": 2547,
+      "triangles": 4040
+    },
+    {
+      "solid": 7,
+      "body": "chassis",
+      "file": "meshes/part_007.obj",
+      "volume_mm3": 34.52225793589465,
+      "mass_kg_estimated": 0.00017957119564289517,
+      "vertices": 2547,
+      "triangles": 4040
+    },
+    {
+      "solid": 8,
+      "body": "chassis",
+      "file": "meshes/part_008.obj",
+      "volume_mm3": 1696.4600329384884,
+      "mass_kg_estimated": 0.00882431725760336,
+      "vertices": 254,
+      "triangles": 248
+    },
+    {
+      "solid": 9,
+      "body": "chassis",
+      "file": "meshes/part_009.obj",
+      "volume_mm3": 458.81023792576246,
+      "mass_kg_estimated": 0.002386550241021923,
+      "vertices": 3256,
+      "triangles": 3258
+    },
+    {
+      "solid": 10,
+      "body": "chassis",
+      "file": "meshes/part_010.obj",
+      "volume_mm3": 1720.6193925328116,
+      "mass_kg_estimated": 0.008949984735564253,
+      "vertices": 48586,
+      "triangles": 50740
+    },
+    {
+      "solid": 11,
+      "body": "chassis",
+      "file": "meshes/part_011.obj",
+      "volume_mm3": 575.4781937051265,
+      "mass_kg_estimated": 0.002993411019115171,
+      "vertices": 3036,
+      "triangles": 2924
+    },
+    {
+      "solid": 12,
+      "body": "chassis",
+      "file": "meshes/part_012.obj",
+      "volume_mm3": 206.18576307639182,
+      "mass_kg_estimated": 0.0010724971717934325,
+      "vertices": 16337,
+      "triangles": 16158
+    },
+    {
+      "solid": 13,
+      "body": "chassis",
+      "file": "meshes/part_013.obj",
+      "volume_mm3": 34.522257935894665,
+      "mass_kg_estimated": 0.00017957119564289525,
+      "vertices": 2547,
+      "triangles": 4040
+    },
+    {
+      "solid": 14,
+      "body": "chassis",
+      "file": "meshes/part_014.obj",
+      "volume_mm3": 34.52225793589465,
+      "mass_kg_estimated": 0.00017957119564289517,
+      "vertices": 2547,
+      "triangles": 4040
+    },
+    {
+      "solid": 15,
+      "body": "chassis",
+      "file": "meshes/part_015.obj",
+      "volume_mm3": 34.52225793589465,
+      "mass_kg_estimated": 0.00017957119564289517,
+      "vertices": 2547,
+      "triangles": 4040
+    },
+    {
+      "solid": 16,
+      "body": "chassis",
+      "file": "meshes/part_016.obj",
+      "volume_mm3": 34.52225793589466,
+      "mass_kg_estimated": 0.00017957119564289523,
+      "vertices": 2547,
+      "triangles": 4040
+    },
+    {
+      "solid": 17,
+      "body": "chassis",
+      "file": "meshes/part_017.obj",
+      "volume_mm3": 1696.4600329384887,
+      "mass_kg_estimated": 0.008824317257603362,
+      "vertices": 254,
+      "triangles": 248
+    },
+    {
+      "solid": 124,
+      "body": "chassis",
+      "file": "meshes/part_124.obj",
+      "volume_mm3": 4144.16260958292,
+      "mass_kg_estimated": 0.007390732282657523,
+      "vertices": 3156,
+      "triangles": 3124
+    },
+    {
+      "solid": 125,
+      "body": "chassis",
+      "file": "meshes/part_125.obj",
+      "volume_mm3": 11721.034898235175,
+      "mass_kg_estimated": 0.02090338608051399,
+      "vertices": 7622,
+      "triangles": 7542
+    },
+    {
+      "solid": 127,
+      "body": "chassis",
+      "file": "meshes/part_127.obj",
+      "volume_mm3": 2725.5870082202186,
+      "mass_kg_estimated": 0.004860833366978442,
+      "vertices": 2426,
+      "triangles": 2392
+    },
+    {
+      "solid": 128,
+      "body": "chassis",
+      "file": "meshes/part_128.obj",
+      "volume_mm3": 2725.587008220219,
+      "mass_kg_estimated": 0.004860833366978442,
+      "vertices": 2426,
+      "triangles": 2392
+    },
+    {
+      "solid": 129,
+      "body": "chassis",
+      "file": "meshes/part_129.obj",
+      "volume_mm3": 161.98837120072372,
+      "mass_kg_estimated": 0.0002888913387905862,
+      "vertices": 508,
+      "triangles": 504
+    },
+    {
+      "solid": 130,
+      "body": "chassis",
+      "file": "meshes/part_130.obj",
+      "volume_mm3": 161.98837120072375,
+      "mass_kg_estimated": 0.00028889133879058624,
+      "vertices": 508,
+      "triangles": 504
+    },
+    {
+      "solid": 136,
+      "body": "chassis",
+      "file": "meshes/part_136.obj",
+      "volume_mm3": 1785.1106548686366,
+      "mass_kg_estimated": 0.0031835804209384903,
+      "vertices": 3894,
+      "triangles": 3872
+    },
+    {
+      "solid": 137,
+      "body": "chassis",
+      "file": "meshes/part_137.obj",
+      "volume_mm3": 1300.1165126909846,
+      "mass_kg_estimated": 0.0023186380426632046,
+      "vertices": 1640,
+      "triangles": 2100
+    },
+    {
+      "solid": 138,
+      "body": "chassis",
+      "file": "meshes/part_138.obj",
+      "volume_mm3": 1300.116512690984,
+      "mass_kg_estimated": 0.0023186380426632037,
+      "vertices": 1640,
+      "triangles": 2100
+    },
+    {
+      "solid": 139,
+      "body": "chassis",
+      "file": "meshes/part_139.obj",
+      "volume_mm3": 60.88406562657017,
+      "mass_kg_estimated": 0.00010858112282689083,
+      "vertices": 508,
+      "triangles": 504
+    },
+    {
+      "solid": 140,
+      "body": "chassis",
+      "file": "meshes/part_140.obj",
+      "volume_mm3": 1601.1792714143285,
+      "mass_kg_estimated": 0.0028555557410318236,
+      "vertices": 1406,
+      "triangles": 1332
+    },
+    {
+      "solid": 143,
+      "body": "chassis",
+      "file": "meshes/part_143.obj",
+      "volume_mm3": 60.88406562657019,
+      "mass_kg_estimated": 0.00010858112282689085,
+      "vertices": 508,
+      "triangles": 504
+    },
+    {
+      "solid": 144,
+      "body": "chassis",
+      "file": "meshes/part_144.obj",
+      "volume_mm3": 60.884065626570205,
+      "mass_kg_estimated": 0.00010858112282689087,
+      "vertices": 508,
+      "triangles": 504
+    },
+    {
+      "solid": 145,
+      "body": "chassis",
+      "file": "meshes/part_145.obj",
+      "volume_mm3": 60.88406562657019,
+      "mass_kg_estimated": 0.00010858112282689085,
+      "vertices": 508,
+      "triangles": 504
+    },
+    {
+      "solid": 150,
+      "body": "chassis",
+      "file": "meshes/part_150.obj",
+      "volume_mm3": 60.884065626570205,
+      "mass_kg_estimated": 0.00010858112282689087,
+      "vertices": 508,
+      "triangles": 504
+    },
+    {
+      "solid": 151,
+      "body": "chassis",
+      "file": "meshes/part_151.obj",
+      "volume_mm3": 60.88406562657019,
+      "mass_kg_estimated": 0.00010858112282689085,
+      "vertices": 508,
+      "triangles": 504
+    },
+    {
+      "solid": 156,
+      "body": "chassis",
+      "file": "meshes/part_156.obj",
+      "volume_mm3": 5000.296950616857,
+      "mass_kg_estimated": 0.008917569018730498,
+      "vertices": 2240,
+      "triangles": 2212
+    },
+    {
+      "solid": 22,
+      "body": "L_upper",
+      "file": "meshes/part_022.obj",
+      "volume_mm3": 498.97811397211564,
+      "mass_kg_estimated": 0.0008898815038641624,
+      "vertices": 3568,
+      "triangles": 3568
+    },
+    {
+      "solid": 24,
+      "body": "L_upper",
+      "file": "meshes/part_024.obj",
+      "volume_mm3": 3248.33656049902,
+      "mass_kg_estimated": 0.005793109041402456,
+      "vertices": 5970,
+      "triangles": 5944
+    },
+    {
+      "solid": 25,
+      "body": "L_upper",
+      "file": "meshes/part_025.obj",
+      "volume_mm3": 5246.584805721021,
+      "mass_kg_estimated": 0.00935680072197875,
+      "vertices": 14644,
+      "triangles": 18465
+    },
+    {
+      "solid": 42,
+      "body": "L_upper",
+      "file": "meshes/part_042.obj",
+      "volume_mm3": 15.924469716204385,
+      "mass_kg_estimated": 2.839982488708348e-05,
+      "vertices": 5642,
+      "triangles": 9408
+    },
+    {
+      "solid": 43,
+      "body": "L_upper",
+      "file": "meshes/part_043.obj",
+      "volume_mm3": 0.5235987755982989,
+      "mass_kg_estimated": 9.337901859897736e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 44,
+      "body": "L_upper",
+      "file": "meshes/part_044.obj",
+      "volume_mm3": 0.5235987755982987,
+      "mass_kg_estimated": 9.337901859897733e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 45,
+      "body": "L_upper",
+      "file": "meshes/part_045.obj",
+      "volume_mm3": 0.5235987755982989,
+      "mass_kg_estimated": 9.337901859897736e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 46,
+      "body": "L_upper",
+      "file": "meshes/part_046.obj",
+      "volume_mm3": 0.5235987755982988,
+      "mass_kg_estimated": 9.337901859897735e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 47,
+      "body": "L_upper",
+      "file": "meshes/part_047.obj",
+      "volume_mm3": 0.5235987755982985,
+      "mass_kg_estimated": 9.337901859897729e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 48,
+      "body": "L_upper",
+      "file": "meshes/part_048.obj",
+      "volume_mm3": 0.5235987755982985,
+      "mass_kg_estimated": 9.337901859897729e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 49,
+      "body": "L_upper",
+      "file": "meshes/part_049.obj",
+      "volume_mm3": 0.5235987755982989,
+      "mass_kg_estimated": 9.337901859897736e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 50,
+      "body": "L_upper",
+      "file": "meshes/part_050.obj",
+      "volume_mm3": 0.5235987755982987,
+      "mass_kg_estimated": 9.337901859897733e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 51,
+      "body": "L_upper",
+      "file": "meshes/part_051.obj",
+      "volume_mm3": 0.5235987755982985,
+      "mass_kg_estimated": 9.337901859897729e-07,
+      "vertices": 1047,
+      "triangles": 2024
+    },
+    {
+      "solid": 52,
+      "body": "L_upper",
+      "file": "meshes/part_052.obj",
+      "volume_mm3": 0.5235987755982991,
+      "mass_kg_estimated": 9.337901859897739e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 53,
+      "body": "L_upper",
+      "file": "meshes/part_053.obj",
+      "volume_mm3": 23.17533139241475,
+      "mass_kg_estimated": 4.133106878748767e-05,
+      "vertices": 5642,
+      "triangles": 9408
+    },
+    {
+      "solid": 66,
+      "body": "L_upper",
+      "file": "meshes/part_066.obj",
+      "volume_mm3": 15.924469716204394,
+      "mass_kg_estimated": 2.8399824887083502e-05,
+      "vertices": 5642,
+      "triangles": 9408
+    },
+    {
+      "solid": 67,
+      "body": "L_upper",
+      "file": "meshes/part_067.obj",
+      "volume_mm3": 0.5235987755982983,
+      "mass_kg_estimated": 9.337901859897723e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 68,
+      "body": "L_upper",
+      "file": "meshes/part_068.obj",
+      "volume_mm3": 0.5235987755982988,
+      "mass_kg_estimated": 9.337901859897735e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 69,
+      "body": "L_upper",
+      "file": "meshes/part_069.obj",
+      "volume_mm3": 0.5235987755982986,
+      "mass_kg_estimated": 9.337901859897732e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 70,
+      "body": "L_upper",
+      "file": "meshes/part_070.obj",
+      "volume_mm3": 0.5235987755982988,
+      "mass_kg_estimated": 9.337901859897735e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 71,
+      "body": "L_upper",
+      "file": "meshes/part_071.obj",
+      "volume_mm3": 0.5235987755982985,
+      "mass_kg_estimated": 9.337901859897729e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 72,
+      "body": "L_upper",
+      "file": "meshes/part_072.obj",
+      "volume_mm3": 0.5235987755982987,
+      "mass_kg_estimated": 9.337901859897733e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 73,
+      "body": "L_upper",
+      "file": "meshes/part_073.obj",
+      "volume_mm3": 0.5235987755982988,
+      "mass_kg_estimated": 9.337901859897735e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 74,
+      "body": "L_upper",
+      "file": "meshes/part_074.obj",
+      "volume_mm3": 0.5235987755982987,
+      "mass_kg_estimated": 9.337901859897733e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 75,
+      "body": "L_upper",
+      "file": "meshes/part_075.obj",
+      "volume_mm3": 0.5235987755982986,
+      "mass_kg_estimated": 9.337901859897732e-07,
+      "vertices": 1047,
+      "triangles": 2024
+    },
+    {
+      "solid": 76,
+      "body": "L_upper",
+      "file": "meshes/part_076.obj",
+      "volume_mm3": 0.5235987755982985,
+      "mass_kg_estimated": 9.337901859897729e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 77,
+      "body": "L_upper",
+      "file": "meshes/part_077.obj",
+      "volume_mm3": 23.175331392414765,
+      "mass_kg_estimated": 4.133106878748769e-05,
+      "vertices": 5642,
+      "triangles": 9408
+    },
+    {
+      "solid": 78,
+      "body": "L_upper",
+      "file": "meshes/part_078.obj",
+      "volume_mm3": 150.6728780612689,
+      "mass_kg_estimated": 0.0002687111990811612,
+      "vertices": 514,
+      "triangles": 504
+    },
+    {
+      "solid": 23,
+      "body": "R_upper",
+      "file": "meshes/part_023.obj",
+      "volume_mm3": 498.9781139721157,
+      "mass_kg_estimated": 0.0008898815038641624,
+      "vertices": 3568,
+      "triangles": 3568
+    },
+    {
+      "solid": 26,
+      "body": "R_upper",
+      "file": "meshes/part_026.obj",
+      "volume_mm3": 3248.3365604990177,
+      "mass_kg_estimated": 0.005793109041402452,
+      "vertices": 5970,
+      "triangles": 5944
+    },
+    {
+      "solid": 27,
+      "body": "R_upper",
+      "file": "meshes/part_027.obj",
+      "volume_mm3": 5246.537954007066,
+      "mass_kg_estimated": 0.009356717166262567,
+      "vertices": 14682,
+      "triangles": 18598
+    },
+    {
+      "solid": 30,
+      "body": "R_upper",
+      "file": "meshes/part_030.obj",
+      "volume_mm3": 15.924469716204399,
+      "mass_kg_estimated": 2.839982488708351e-05,
+      "vertices": 5642,
+      "triangles": 9408
+    },
+    {
+      "solid": 31,
+      "body": "R_upper",
+      "file": "meshes/part_031.obj",
+      "volume_mm3": 0.5235987755982987,
+      "mass_kg_estimated": 9.337901859897733e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 32,
+      "body": "R_upper",
+      "file": "meshes/part_032.obj",
+      "volume_mm3": 0.5235987755982989,
+      "mass_kg_estimated": 9.337901859897736e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 33,
+      "body": "R_upper",
+      "file": "meshes/part_033.obj",
+      "volume_mm3": 0.5235987755982988,
+      "mass_kg_estimated": 9.337901859897735e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 34,
+      "body": "R_upper",
+      "file": "meshes/part_034.obj",
+      "volume_mm3": 0.5235987755982987,
+      "mass_kg_estimated": 9.337901859897733e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 35,
+      "body": "R_upper",
+      "file": "meshes/part_035.obj",
+      "volume_mm3": 0.5235987755982987,
+      "mass_kg_estimated": 9.337901859897733e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 36,
+      "body": "R_upper",
+      "file": "meshes/part_036.obj",
+      "volume_mm3": 0.5235987755982988,
+      "mass_kg_estimated": 9.337901859897735e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 37,
+      "body": "R_upper",
+      "file": "meshes/part_037.obj",
+      "volume_mm3": 0.5235987755982986,
+      "mass_kg_estimated": 9.337901859897732e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 38,
+      "body": "R_upper",
+      "file": "meshes/part_038.obj",
+      "volume_mm3": 0.5235987755982986,
+      "mass_kg_estimated": 9.337901859897732e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 39,
+      "body": "R_upper",
+      "file": "meshes/part_039.obj",
+      "volume_mm3": 0.5235987755982987,
+      "mass_kg_estimated": 9.337901859897733e-07,
+      "vertices": 1047,
+      "triangles": 2024
+    },
+    {
+      "solid": 40,
+      "body": "R_upper",
+      "file": "meshes/part_040.obj",
+      "volume_mm3": 0.5235987755982987,
+      "mass_kg_estimated": 9.337901859897733e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 41,
+      "body": "R_upper",
+      "file": "meshes/part_041.obj",
+      "volume_mm3": 23.175331392414755,
+      "mass_kg_estimated": 4.133106878748767e-05,
+      "vertices": 5642,
+      "triangles": 9408
+    },
+    {
+      "solid": 54,
+      "body": "R_upper",
+      "file": "meshes/part_054.obj",
+      "volume_mm3": 15.924469716204396,
+      "mass_kg_estimated": 2.8399824887083502e-05,
+      "vertices": 5642,
+      "triangles": 9408
+    },
+    {
+      "solid": 55,
+      "body": "R_upper",
+      "file": "meshes/part_055.obj",
+      "volume_mm3": 0.5235987755982985,
+      "mass_kg_estimated": 9.337901859897729e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 56,
+      "body": "R_upper",
+      "file": "meshes/part_056.obj",
+      "volume_mm3": 0.5235987755982988,
+      "mass_kg_estimated": 9.337901859897735e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 57,
+      "body": "R_upper",
+      "file": "meshes/part_057.obj",
+      "volume_mm3": 0.5235987755982989,
+      "mass_kg_estimated": 9.337901859897736e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 58,
+      "body": "R_upper",
+      "file": "meshes/part_058.obj",
+      "volume_mm3": 0.5235987755982986,
+      "mass_kg_estimated": 9.337901859897732e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 59,
+      "body": "R_upper",
+      "file": "meshes/part_059.obj",
+      "volume_mm3": 0.5235987755982987,
+      "mass_kg_estimated": 9.337901859897733e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 60,
+      "body": "R_upper",
+      "file": "meshes/part_060.obj",
+      "volume_mm3": 0.5235987755982988,
+      "mass_kg_estimated": 9.337901859897735e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 61,
+      "body": "R_upper",
+      "file": "meshes/part_061.obj",
+      "volume_mm3": 0.5235987755982987,
+      "mass_kg_estimated": 9.337901859897733e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 62,
+      "body": "R_upper",
+      "file": "meshes/part_062.obj",
+      "volume_mm3": 0.5235987755982987,
+      "mass_kg_estimated": 9.337901859897733e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 63,
+      "body": "R_upper",
+      "file": "meshes/part_063.obj",
+      "volume_mm3": 0.5235987755982988,
+      "mass_kg_estimated": 9.337901859897735e-07,
+      "vertices": 1047,
+      "triangles": 2024
+    },
+    {
+      "solid": 64,
+      "body": "R_upper",
+      "file": "meshes/part_064.obj",
+      "volume_mm3": 0.5235987755982987,
+      "mass_kg_estimated": 9.337901859897733e-07,
+      "vertices": 1126,
+      "triangles": 2112
+    },
+    {
+      "solid": 65,
+      "body": "R_upper",
+      "file": "meshes/part_065.obj",
+      "volume_mm3": 23.175331392414755,
+      "mass_kg_estimated": 4.133106878748767e-05,
+      "vertices": 5642,
+      "triangles": 9408
+    },
+    {
+      "solid": 79,
+      "body": "R_upper",
+      "file": "meshes/part_079.obj",
+      "volume_mm3": 150.67287806126888,
+      "mass_kg_estimated": 0.0002687111990811612,
+      "vertices": 514,
+      "triangles": 504
+    },
+    {
+      "solid": 18,
+      "body": "L_lower",
+      "file": "meshes/part_018.obj",
+      "volume_mm3": 5377.306051435116,
+      "mass_kg_estimated": 0.02797062923250983,
+      "vertices": 41365,
+      "triangles": 62210
+    },
+    {
+      "solid": 142,
+      "body": "L_lower",
+      "file": "meshes/part_142.obj",
+      "volume_mm3": 446.3601958490607,
+      "mass_kg_estimated": 0.0007960422936895811,
+      "vertices": 1346,
+      "triangles": 1320
+    },
+    {
+      "solid": 146,
+      "body": "L_lower",
+      "file": "meshes/part_146.obj",
+      "volume_mm3": 6363.403717769344,
+      "mass_kg_estimated": 0.01134854437800018,
+      "vertices": 7957,
+      "triangles": 8868
+    },
+    {
+      "solid": 132,
+      "body": "L_lower",
+      "file": "meshes/part_132.obj",
+      "volume_mm3": 70.9888177579767,
+      "mass_kg_estimated": 0.00012660201747353086,
+      "vertices": 536,
+      "triangles": 520
+    },
+    {
+      "solid": 153,
+      "body": "L_lower",
+      "file": "meshes/part_153.obj",
+      "volume_mm3": 11.780972450961727,
+      "mass_kg_estimated": 2.1010279184769907e-05,
+      "vertices": 508,
+      "triangles": 504
+    },
+    {
+      "solid": 20,
+      "body": "R_lower",
+      "file": "meshes/part_020.obj",
+      "volume_mm3": 5377.306051435121,
+      "mass_kg_estimated": 0.02797062923250986,
+      "vertices": 41373,
+      "triangles": 62232
+    },
+    {
+      "solid": 141,
+      "body": "R_lower",
+      "file": "meshes/part_141.obj",
+      "volume_mm3": 446.3601958490608,
+      "mass_kg_estimated": 0.0007960422936895814,
+      "vertices": 1346,
+      "triangles": 1320
+    },
+    {
+      "solid": 147,
+      "body": "R_lower",
+      "file": "meshes/part_147.obj",
+      "volume_mm3": 6363.403962007813,
+      "mass_kg_estimated": 0.01134854481357699,
+      "vertices": 7953,
+      "triangles": 8860
+    },
+    {
+      "solid": 134,
+      "body": "R_lower",
+      "file": "meshes/part_134.obj",
+      "volume_mm3": 70.98881775797673,
+      "mass_kg_estimated": 0.00012660201747353091,
+      "vertices": 536,
+      "triangles": 520
+    },
+    {
+      "solid": 155,
+      "body": "R_lower",
+      "file": "meshes/part_155.obj",
+      "volume_mm3": 11.780972450961727,
+      "mass_kg_estimated": 2.1010279184769907e-05,
+      "vertices": 508,
+      "triangles": 504
+    },
+    {
+      "solid": 28,
+      "body": "L_rod",
+      "file": "meshes/part_028.obj",
+      "volume_mm3": 817.5959117708683,
+      "mass_kg_estimated": 0.001458106997375259,
+      "vertices": 1012,
+      "triangles": 992
+    },
+    {
+      "solid": 80,
+      "body": "L_rod",
+      "file": "meshes/part_080.obj",
+      "volume_mm3": 0.24847484615772195,
+      "mass_kg_estimated": 4.431320003418155e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 81,
+      "body": "L_rod",
+      "file": "meshes/part_081.obj",
+      "volume_mm3": 0.2484748461577221,
+      "mass_kg_estimated": 4.431320003418158e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 82,
+      "body": "L_rod",
+      "file": "meshes/part_082.obj",
+      "volume_mm3": 0.248474846157722,
+      "mass_kg_estimated": 4.4313200034181557e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 83,
+      "body": "L_rod",
+      "file": "meshes/part_083.obj",
+      "volume_mm3": 0.24847484615772195,
+      "mass_kg_estimated": 4.431320003418155e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 84,
+      "body": "L_rod",
+      "file": "meshes/part_084.obj",
+      "volume_mm3": 0.24847484615772208,
+      "mass_kg_estimated": 4.4313200034181567e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 85,
+      "body": "L_rod",
+      "file": "meshes/part_085.obj",
+      "volume_mm3": 0.24847484615772208,
+      "mass_kg_estimated": 4.4313200034181567e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 86,
+      "body": "L_rod",
+      "file": "meshes/part_086.obj",
+      "volume_mm3": 0.24847484615772203,
+      "mass_kg_estimated": 4.4313200034181557e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 87,
+      "body": "L_rod",
+      "file": "meshes/part_087.obj",
+      "volume_mm3": 0.24847484615772203,
+      "mass_kg_estimated": 4.4313200034181557e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 88,
+      "body": "L_rod",
+      "file": "meshes/part_088.obj",
+      "volume_mm3": 16.072911142092565,
+      "mass_kg_estimated": 2.8664556496759846e-05,
+      "vertices": 2735,
+      "triangles": 4226
+    },
+    {
+      "solid": 89,
+      "body": "L_rod",
+      "file": "meshes/part_089.obj",
+      "volume_mm3": 0.248474846157722,
+      "mass_kg_estimated": 4.4313200034181557e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 90,
+      "body": "L_rod",
+      "file": "meshes/part_090.obj",
+      "volume_mm3": 10.063778796432526,
+      "mass_kg_estimated": 1.7947822477893507e-05,
+      "vertices": 3730,
+      "triangles": 6068
+    },
+    {
+      "solid": 91,
+      "body": "L_rod",
+      "file": "meshes/part_091.obj",
+      "volume_mm3": 0.24847484615772208,
+      "mass_kg_estimated": 4.4313200034181567e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 92,
+      "body": "L_rod",
+      "file": "meshes/part_092.obj",
+      "volume_mm3": 0.24847484615772206,
+      "mass_kg_estimated": 4.4313200034181567e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 93,
+      "body": "L_rod",
+      "file": "meshes/part_093.obj",
+      "volume_mm3": 0.24847484615772195,
+      "mass_kg_estimated": 4.431320003418155e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 94,
+      "body": "L_rod",
+      "file": "meshes/part_094.obj",
+      "volume_mm3": 0.24847484615772203,
+      "mass_kg_estimated": 4.4313200034181557e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 95,
+      "body": "L_rod",
+      "file": "meshes/part_095.obj",
+      "volume_mm3": 0.24847484615772197,
+      "mass_kg_estimated": 4.431320003418155e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 96,
+      "body": "L_rod",
+      "file": "meshes/part_096.obj",
+      "volume_mm3": 0.2484748461577221,
+      "mass_kg_estimated": 4.431320003418158e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 97,
+      "body": "L_rod",
+      "file": "meshes/part_097.obj",
+      "volume_mm3": 0.2484748461577221,
+      "mass_kg_estimated": 4.431320003418158e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 98,
+      "body": "L_rod",
+      "file": "meshes/part_098.obj",
+      "volume_mm3": 0.24847484615772203,
+      "mass_kg_estimated": 4.4313200034181557e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 99,
+      "body": "L_rod",
+      "file": "meshes/part_099.obj",
+      "volume_mm3": 16.072911142092575,
+      "mass_kg_estimated": 2.8664556496759866e-05,
+      "vertices": 2735,
+      "triangles": 4226
+    },
+    {
+      "solid": 100,
+      "body": "L_rod",
+      "file": "meshes/part_100.obj",
+      "volume_mm3": 0.24847484615772197,
+      "mass_kg_estimated": 4.431320003418155e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 101,
+      "body": "L_rod",
+      "file": "meshes/part_101.obj",
+      "volume_mm3": 10.06377879643253,
+      "mass_kg_estimated": 1.7947822477893513e-05,
+      "vertices": 3730,
+      "triangles": 6068
+    },
+    {
+      "solid": 133,
+      "body": "L_rod",
+      "file": "meshes/part_133.obj",
+      "volume_mm3": 70.98881775797672,
+      "mass_kg_estimated": 0.00012660201747353091,
+      "vertices": 536,
+      "triangles": 520
+    },
+    {
+      "solid": 152,
+      "body": "L_rod",
+      "file": "meshes/part_152.obj",
+      "volume_mm3": 11.780972450961725,
+      "mass_kg_estimated": 2.1010279184769907e-05,
+      "vertices": 508,
+      "triangles": 504
+    },
+    {
+      "solid": 29,
+      "body": "R_rod",
+      "file": "meshes/part_029.obj",
+      "volume_mm3": 817.5959117708683,
+      "mass_kg_estimated": 0.001458106997375259,
+      "vertices": 1012,
+      "triangles": 992
+    },
+    {
+      "solid": 102,
+      "body": "R_rod",
+      "file": "meshes/part_102.obj",
+      "volume_mm3": 0.24847484615772208,
+      "mass_kg_estimated": 4.4313200034181567e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 103,
+      "body": "R_rod",
+      "file": "meshes/part_103.obj",
+      "volume_mm3": 0.24847484615772214,
+      "mass_kg_estimated": 4.431320003418158e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 104,
+      "body": "R_rod",
+      "file": "meshes/part_104.obj",
+      "volume_mm3": 0.24847484615772192,
+      "mass_kg_estimated": 4.431320003418154e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 105,
+      "body": "R_rod",
+      "file": "meshes/part_105.obj",
+      "volume_mm3": 0.24847484615772203,
+      "mass_kg_estimated": 4.4313200034181557e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 106,
+      "body": "R_rod",
+      "file": "meshes/part_106.obj",
+      "volume_mm3": 0.24847484615772203,
+      "mass_kg_estimated": 4.4313200034181557e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 107,
+      "body": "R_rod",
+      "file": "meshes/part_107.obj",
+      "volume_mm3": 0.24847484615772203,
+      "mass_kg_estimated": 4.4313200034181557e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 108,
+      "body": "R_rod",
+      "file": "meshes/part_108.obj",
+      "volume_mm3": 0.2484748461577221,
+      "mass_kg_estimated": 4.431320003418158e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 109,
+      "body": "R_rod",
+      "file": "meshes/part_109.obj",
+      "volume_mm3": 0.24847484615772203,
+      "mass_kg_estimated": 4.4313200034181557e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 110,
+      "body": "R_rod",
+      "file": "meshes/part_110.obj",
+      "volume_mm3": 16.072911142092565,
+      "mass_kg_estimated": 2.8664556496759846e-05,
+      "vertices": 2735,
+      "triangles": 4226
+    },
+    {
+      "solid": 111,
+      "body": "R_rod",
+      "file": "meshes/part_111.obj",
+      "volume_mm3": 0.24847484615772186,
+      "mass_kg_estimated": 4.4313200034181536e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 112,
+      "body": "R_rod",
+      "file": "meshes/part_112.obj",
+      "volume_mm3": 10.063778796432528,
+      "mass_kg_estimated": 1.7947822477893513e-05,
+      "vertices": 3730,
+      "triangles": 6068
+    },
+    {
+      "solid": 113,
+      "body": "R_rod",
+      "file": "meshes/part_113.obj",
+      "volume_mm3": 0.24847484615772208,
+      "mass_kg_estimated": 4.4313200034181567e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 114,
+      "body": "R_rod",
+      "file": "meshes/part_114.obj",
+      "volume_mm3": 0.24847484615772197,
+      "mass_kg_estimated": 4.431320003418155e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 115,
+      "body": "R_rod",
+      "file": "meshes/part_115.obj",
+      "volume_mm3": 0.24847484615772195,
+      "mass_kg_estimated": 4.431320003418155e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 116,
+      "body": "R_rod",
+      "file": "meshes/part_116.obj",
+      "volume_mm3": 0.2484748461577221,
+      "mass_kg_estimated": 4.431320003418158e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 117,
+      "body": "R_rod",
+      "file": "meshes/part_117.obj",
+      "volume_mm3": 0.24847484615772197,
+      "mass_kg_estimated": 4.431320003418155e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 118,
+      "body": "R_rod",
+      "file": "meshes/part_118.obj",
+      "volume_mm3": 0.24847484615772208,
+      "mass_kg_estimated": 4.4313200034181567e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 119,
+      "body": "R_rod",
+      "file": "meshes/part_119.obj",
+      "volume_mm3": 0.2484748461577219,
+      "mass_kg_estimated": 4.431320003418154e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 120,
+      "body": "R_rod",
+      "file": "meshes/part_120.obj",
+      "volume_mm3": 0.24847484615772208,
+      "mass_kg_estimated": 4.4313200034181567e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 121,
+      "body": "R_rod",
+      "file": "meshes/part_121.obj",
+      "volume_mm3": 16.072911142092572,
+      "mass_kg_estimated": 2.8664556496759856e-05,
+      "vertices": 2735,
+      "triangles": 4226
+    },
+    {
+      "solid": 122,
+      "body": "R_rod",
+      "file": "meshes/part_122.obj",
+      "volume_mm3": 0.24847484615772192,
+      "mass_kg_estimated": 4.431320003418154e-07,
+      "vertices": 1045,
+      "triangles": 2022
+    },
+    {
+      "solid": 123,
+      "body": "R_rod",
+      "file": "meshes/part_123.obj",
+      "volume_mm3": 10.063778796432524,
+      "mass_kg_estimated": 1.7947822477893503e-05,
+      "vertices": 3730,
+      "triangles": 6068
+    },
+    {
+      "solid": 131,
+      "body": "R_rod",
+      "file": "meshes/part_131.obj",
+      "volume_mm3": 60.884065626570205,
+      "mass_kg_estimated": 0.00010858112282689087,
+      "vertices": 508,
+      "triangles": 504
+    },
+    {
+      "solid": 135,
+      "body": "R_rod",
+      "file": "meshes/part_135.obj",
+      "volume_mm3": 70.98881775797672,
+      "mass_kg_estimated": 0.00012660201747353091,
+      "vertices": 536,
+      "triangles": 520
+    },
+    {
+      "solid": 154,
+      "body": "R_rod",
+      "file": "meshes/part_154.obj",
+      "volume_mm3": 11.780972450961727,
+      "mass_kg_estimated": 2.1010279184769907e-05,
+      "vertices": 508,
+      "triangles": 504
+    },
+    {
+      "solid": 19,
+      "body": "L_wheel",
+      "file": "meshes/part_019.obj",
+      "volume_mm3": 3433.4833206349967,
+      "mass_kg_estimated": 0.01785962859820068,
+      "vertices": 12254,
+      "triangles": 15084
+    },
+    {
+      "solid": 149,
+      "body": "L_wheel",
+      "file": "meshes/part_149.obj",
+      "volume_mm3": 5068.027886923626,
+      "mass_kg_estimated": 0.008285164162668486,
+      "vertices": 4248,
+      "triangles": 4106
+    },
+    {
+      "solid": 21,
+      "body": "R_wheel",
+      "file": "meshes/part_021.obj",
+      "volume_mm3": 3433.4833206349986,
+      "mass_kg_estimated": 0.01785962859820069,
+      "vertices": 12254,
+      "triangles": 15084
+    },
+    {
+      "solid": 148,
+      "body": "R_wheel",
+      "file": "meshes/part_148.obj",
+      "volume_mm3": 5068.0278869236245,
+      "mass_kg_estimated": 0.008285164162668482,
+      "vertices": 4248,
+      "triangles": 4106
+    }
+  ],
+  "upstream_url": "https://github.com/MuShibo/Micro-Wheeled_leg-Robot"
+}

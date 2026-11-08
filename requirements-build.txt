@@ -1,0 +1,4 @@
+-r requirements.txt
+cadquery==2.8.0
+coacd==1.0.14
+trimesh==5.2.0

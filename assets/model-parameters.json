@@ -1,0 +1,11 @@
+{
+  "battery_center_m": [
+    0,
+    0,
+    0
+  ],
+  "battery_center_status": "ASSUMED reference at hip-height body center; not measured; user photographs only constrain roughly central between wheels",
+  "battery_axes_status": "ASSUMED 65mm along Y, 26.5mm along X, 15mm along Z",
+  "total_mass_kg": 0.336,
+  "battery_mass_kg": 0.058
+}

@@ -1,0 +1,159 @@
+{
+  "observed_at": "2026-11-08T13:28:44.288711+08:00",
+  "model_sha256": "f560657c99d997d0ea172d5c6f4c3be390eeb5e552493bac6517210feabfe08b",
+  "runtime_venv": "project-local .venv; newly created and installed from requirements.txt",
+  "tests_passed": 4,
+  "motion": {
+    "mujoco_version": "3.2.5",
+    "nbody": 11,
+    "nq": 15,
+    "nv": 14,
+    "nu": 4,
+    "neq": 2,
+    "nmesh": 252,
+    "mass_kg": 0.33600000000001,
+    "pinned_motion": {
+      "steps": 3000,
+      "duration_s": 2.9999999999997806,
+      "max_closure_error_m": 3.494582302868724e-05,
+      "hip_angles_rad": [
+        -0.02817368762439378,
+        0.012385902438827725
+      ],
+      "wheel_angles_rad": [
+        183.58917937210236,
+        -146.82964708034444
+      ],
+      "warnings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hip_peak_to_peak_rad": [
+        0.18093756338137382,
+        0.15851875983027744
+      ],
+      "knee_peak_to_peak_rad": [
+        0.4005673925293101,
+        0.35467232980403013
+      ]
+    },
+    "selective_self_contact": {
+      "initial_contacts": 0,
+      "contact_instances": 33,
+      "minimum_proxy_distance_m": 0.0
+    },
+    "free_base_drop": {
+      "steps": 2000,
+      "duration_s": 1.9999999999998905,
+      "max_contacts": 9,
+      "final_base_z_m": 0.04570880582275669,
+      "max_closure_error_m": 6.043132775932456e-05,
+      "warnings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "render": {
+      "ok": true,
+      "path": "outputs/preview.png",
+      "shape": [
+        960,
+        1280,
+        3
+      ]
+    }
+  },
+  "ground": {
+    "pinned_animation": {
+      "min_visual_height_m": 0.02011174212866428,
+      "worst_time_s": 1.758999999999917,
+      "worst_visual_geom": "visual_149",
+      "max_floor_contacts": 0,
+      "min_floor_contact_dist_m": null,
+      "worst_contact": null,
+      "per_body_min_visual_height_m": {
+        "L_wheel": 0.02011174212866428,
+        "R_wheel": 0.02208281408913468,
+        "L_lower": 0.02476836828209234,
+        "R_lower": 0.026735304028171175,
+        "L_upper": 0.05933776148814343,
+        "R_upper": 0.06030847156107455,
+        "chassis": 0.07048000824264467,
+        "L_rod": 0.06550800693052566,
+        "R_rod": 0.06624133479084085
+      },
+      "warnings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "free_drop": {
+      "min_visual_height_m": 6.453267763638013e-05,
+      "worst_time_s": 0.08400000000000006,
+      "worst_visual_geom": "visual_149",
+      "max_floor_contacts": 6,
+      "min_floor_contact_dist_m": 6.382438172064173e-05,
+      "worst_contact": {
+        "dist_m": 6.382438172064173e-05,
+        "geoms": [
+          "floor",
+          "L_tire_contact"
+        ]
+      },
+      "per_body_min_visual_height_m": {
+        "L_wheel": 6.453267763638013e-05,
+        "R_wheel": 6.674686800932708e-05,
+        "L_lower": 0.0006846549647324708,
+        "R_lower": 0.0006850600550499155,
+        "L_upper": 0.0030588470153796524,
+        "R_upper": 0.0030591754541954494,
+        "chassis": 0.018725662818439563,
+        "L_rod": 0.0004359566534885423,
+        "R_rod": 0.0004362397871333981
+      },
+      "warnings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "interference": {
+    "states": 31,
+    "targeted_pairs_checked": 310,
+    "max_intersection_mm3": 0,
+    "scope": "q0 plus 30 sampled motion frames; 10 targeted pairs each; not all parts or continuous sweep",
+    "environment": "existing CAD environment; runtime motion/ground/tests additionally passed in clean project venv"
+  },
+  "unverified": [
+    "interactive viewer UI",
+    "CAD builder and CoACD regeneration",
+    "Linux/macOS runtime",
+    "all-part interference and full joint travel",
+    "standing/jumping and sim-to-real",
+    "upstream redistribution permission"
+  ]
+}
