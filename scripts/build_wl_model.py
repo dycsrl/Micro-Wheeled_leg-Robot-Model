@@ -55,7 +55,7 @@ for side in ['L','R']:
  sub(eq,'connect',name=side+'_fourbar',site1=side+'_closure_lower',site2=side+'_closure_rod',solref='.003 1',solimp='.99 .999 .0001')
  wheel=sub(low,'body',name=side+'_wheel',pos=s(w-b));sub(wheel,'joint',name=side+'_wheel_joint',axis='0 1 0');bodies[side+'_wheel']=wheel
  sub(wheel,'geom',name=side+'_tire_contact',type='cylinder',size='.0185 .0065',quat='.7071067812 .7071067812 0 0',rgba='0 0 0 0',contype='1',conaffinity='2',group='3',friction='.8 .01 .001')
- sub(acts,'position',name=side+'_servo',joint=side+'_hip',kp='.15',kv='.004',ctrlrange='-.3 .3',forcerange='-.15 .15')
+ sub(acts,'position',name=side+'_servo',joint=side+'_hip',kp='6.0830245282658',kv='0.13525675068501658',ctrlrange='-.3 .3',forcerange='-.15 .15')
  # voltage input V -> torque estimated gain and back-emf damping. NOT calibrated.
  sub(acts,'general',name=side+'_wheel_voltage',joint=side+'_wheel_joint',gainprm='.01',biastype='affine',biasprm='0 0 -.0001',ctrlrange='-7.4 7.4',forcerange='-.08 .08')
 rawmass={};records=[]

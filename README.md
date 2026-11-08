@@ -34,7 +34,7 @@ CAD 重建和实体求交需额外依赖与原始 STEP，见 [SETUP.md](SETUP.md
 
 ## 状态与限制
 
-本项目定位为**几何建模与仿真探索模型**，不宣称动力学已标定或可直接迁移实机。当前验证记录见 [docs/VALIDATION.md](docs/VALIDATION.md)。
+本项目定位为**几何建模与仿真探索模型**，不宣称动力学已标定或可直接迁移实机。当前验证记录见 [docs/VALIDATION.md](docs/VALIDATION.md)。 舵机初值后续修正及承重测试（含未通过项）见 [docs/SERVO-HOLD.md](docs/SERVO-HOLD.md)。
 
 - 整机质量 336 g、电池 58 g 来自本项目实物测量，不代表上游所有复刻机器。
 - 电池位置、质量分布、摩擦、轮电机参数、舵机 PD 与关节范围包含估计。

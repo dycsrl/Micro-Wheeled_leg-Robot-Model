@@ -729,9 +729,9 @@
     <connect name="R_fourbar" site1="R_closure_lower" site2="R_closure_rod" solref=".003 1" solimp=".99 .999 .0001" />
   </equality>
   <actuator>
-    <position name="L_servo" joint="L_hip" kp=".15" kv=".004" ctrlrange="-.3 .3" forcerange="-.15 .15" />
+    <position name="L_servo" joint="L_hip" kp="6.0830245282658" kv="0.13525675068501658" ctrlrange="-.3 .3" forcerange="-.15 .15" />
     <general name="L_wheel_voltage" joint="L_wheel_joint" gainprm=".01" biastype="affine" biasprm="0 0 -.0001" ctrlrange="-7.4 7.4" forcerange="-.08 .08" />
-    <position name="R_servo" joint="R_hip" kp=".15" kv=".004" ctrlrange="-.3 .3" forcerange="-.15 .15" />
+    <position name="R_servo" joint="R_hip" kp="6.0830245282658" kv="0.13525675068501658" ctrlrange="-.3 .3" forcerange="-.15 .15" />
     <general name="R_wheel_voltage" joint="R_wheel_joint" gainprm=".01" biastype="affine" biasprm="0 0 -.0001" ctrlrange="-7.4 7.4" forcerange="-.08 .08" />
   </actuator>
   <contact>
